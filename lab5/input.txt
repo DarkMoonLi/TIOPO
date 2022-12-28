@@ -1,0 +1,33 @@
+Fonts: Calibri, Times New Roman, Arial, Cambria
+Style: regular, italic, bold, bold italic, light, light italic
+Size: 1, 10.5, 16, 4000
+Color: black, red, green, blue
+Underline: no, single, dashed, wavy
+Underline color: no, black, green, blue, red
+
+Strikethrough: T, F
+Double strikethrough: T, F
+Superscript: T, F
+Subscript: T, F
+Small caps: T, F
+All caps: T, F
+justify character height: T, F
+
+Shift: 0, 1, -1, 100, 10.1, -100
+
+
+IF [Underline] = "no" THEN [Underline color] = "no";
+IF [Underline color] = "no" THEN [Underline] = "no";
+
+IF [Strikethrough] = "T" THEN [Double strikethrough] = "F";
+IF [Double strikethrough] = "T" THEN [Strikethrough] = "F";
+
+IF [Superscript] = "T" THEN [Subscript] = "F";
+IF [Subscript] = "T" THEN [Superscript] = "F";
+
+IF [Small caps] = "T" THEN [All caps] = "F";
+IF [All caps] = "T" THEN [Small caps] = "F";
+
+IF [Shift] < 0 THEN [Subscript] = "T";
+IF [Shift] > 0 THEN [Superscript] = "T";
+IF [Shift] = 0 THEN [Subscript] = "F" AND [Superscript] = "F";

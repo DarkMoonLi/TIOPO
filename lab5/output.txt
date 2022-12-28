@@ -1,0 +1,43 @@
+Fonts	Style	Size	Color	Underline	Underline color	Strikethrough	Double strikethrough	Superscript	Subscript	Small caps	All caps	justify character height	Shift
+Arial	light italic	1	black	dashed	blue	T	F	F	T	T	F	T	-100
+Arial	regular	16	green	wavy	green	F	T	T	F	F	T	F	1
+Times New Roman	light italic	4000	red	single	black	T	F	T	F	F	T	T	1
+Calibri	light italic	10.5	blue	single	red	F	T	F	F	T	F	F	0
+Cambria	bold	1	black	no	no	F	F	T	F	F	T	F	10.1
+Cambria	italic	4000	red	dashed	blue	F	T	T	F	T	F	T	10.1
+Calibri	bold italic	16	blue	wavy	red	T	F	T	F	F	F	T	10.1
+Times New Roman	italic	10.5	green	dashed	green	T	F	T	F	F	T	F	100
+Cambria	light	4000	green	wavy	black	F	T	F	T	F	T	T	-1
+Times New Roman	regular	16	red	no	no	F	T	F	T	T	F	F	-100
+Cambria	bold	10.5	black	single	green	F	T	T	F	T	F	T	1
+Calibri	bold italic	1	blue	single	blue	F	T	F	T	F	T	F	-100
+Cambria	light italic	16	black	wavy	black	F	T	T	F	T	F	T	100
+Arial	bold	4000	green	no	no	T	F	F	F	F	T	T	0
+Times New Roman	italic	1	blue	wavy	black	T	F	F	F	F	T	F	0
+Calibri	bold	4000	green	dashed	red	F	T	F	T	T	F	F	-100
+Arial	italic	10.5	red	single	green	T	F	F	T	T	F	F	-1
+Times New Roman	bold italic	1	black	dashed	red	T	F	F	T	F	T	F	-1
+Times New Roman	bold	16	blue	wavy	blue	F	T	F	T	F	F	T	-1
+Arial	bold italic	10.5	blue	no	no	F	T	T	F	F	T	F	100
+Calibri	light italic	1	green	no	no	T	F	F	T	T	F	T	-1
+Calibri	bold	1	red	dashed	black	F	T	T	F	F	T	T	100
+Calibri	bold italic	4000	blue	dashed	green	F	T	T	F	F	T	T	1
+Cambria	regular	10.5	green	single	black	T	F	T	F	F	T	T	10.1
+Calibri	regular	4000	black	dashed	red	T	F	F	T	F	T	T	-1
+Calibri	light	16	red	dashed	blue	T	F	F	F	T	F	F	0
+Cambria	italic	10.5	red	wavy	red	F	T	F	T	F	T	T	-100
+Arial	light	1	blue	single	green	F	T	T	F	T	F	F	10.1
+Calibri	italic	16	black	single	black	F	T	F	T	F	T	T	-100
+Cambria	regular	10.5	blue	wavy	blue	F	T	F	F	F	F	F	0
+Cambria	bold italic	16	green	wavy	black	F	T	F	F	F	T	T	0
+Times New Roman	light	10.5	black	wavy	green	T	F	F	F	F	T	F	0
+Arial	light	1	red	no	no	F	T	T	F	F	T	F	1
+Cambria	regular	1	green	dashed	blue	T	F	T	F	T	F	F	1
+Arial	regular	4000	green	single	red	F	T	T	F	F	T	T	100
+Times New Roman	light italic	1	black	single	green	F	T	T	F	F	T	F	10.1
+Times New Roman	light	16	blue	single	red	F	T	T	F	F	T	F	100
+Arial	bold italic	1	red	dashed	blue	F	T	T	F	F	T	F	100
+Arial	light	4000	green	wavy	green	T	F	F	T	T	F	T	-100
+Arial	italic	16	black	single	red	F	T	T	F	F	T	F	1
+Arial	bold italic	10.5	green	single	black	F	T	T	F	T	F	F	100
+Arial	italic	4000	black	no	no	T	F	F	F	T	F	T	0
