@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\bin\Debug\net5.0\lab1.exe
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\bin\Debug\net5.0\lab1.deps.json
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.json
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\bin\Debug\net5.0\lab1.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\bin\Debug\net5.0\lab1.dll
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\bin\Debug\net5.0\ref\lab1.dll
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\bin\Debug\net5.0\lab1.pdb
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\obj\Debug\net5.0\lab1.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\obj\Debug\net5.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\obj\Debug\net5.0\lab1.AssemblyInfo.cs
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\obj\Debug\net5.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\obj\Debug\net5.0\lab1.dll
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\obj\Debug\net5.0\ref\lab1.dll
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\obj\Debug\net5.0\lab1.pdb
+C:\Users\Acer\Desktop\TIOPO\lab1\lab1\obj\Debug\net5.0\lab1.genruntimeconfig.cache

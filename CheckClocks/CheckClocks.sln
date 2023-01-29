@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckClocks", "CheckClocks\CheckClocks.csproj", "{2B3ADB4E-8EE8-4498-B53D-E7AF82D68BDB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controllers", "Controllers", "{02D831DC-D4C6-4703-9EE2-88ADA32A6F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{836FDE6B-C1D4-41B7-AF38-62EA83D52FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B3ADB4E-8EE8-4498-B53D-E7AF82D68BDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3ADB4E-8EE8-4498-B53D-E7AF82D68BDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3ADB4E-8EE8-4498-B53D-E7AF82D68BDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3ADB4E-8EE8-4498-B53D-E7AF82D68BDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836FDE6B-C1D4-41B7-AF38-62EA83D52FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836FDE6B-C1D4-41B7-AF38-62EA83D52FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836FDE6B-C1D4-41B7-AF38-62EA83D52FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836FDE6B-C1D4-41B7-AF38-62EA83D52FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B76892CB-6BA5-43C1-A135-48C80FC4BE29}
+	EndGlobalSection
+EndGlobal
